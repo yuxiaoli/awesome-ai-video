@@ -1,0 +1,108 @@
+{
+  "defaultLocale": "en",
+  "title": {
+    "en": "Awesome AI Video",
+    "zh-CN": "Awesome AI 视频",
+    "zh-HK": "Awesome AI 影片"
+  },
+  "description": {
+    "en": "A curated collection of projects for AI-assisted video generation, creative direction, production, and editing.",
+    "zh-CN": "精选面向 AI 视频生成、创意导演、制作与剪辑的项目。",
+    "zh-HK": "精選面向 AI 影片生成、創意導演、製作與剪輯的專案。"
+  },
+  "sections": [
+    {
+      "title": {
+        "en": "AI Video Production & Editing",
+        "zh-CN": "AI 视频制作与剪辑",
+        "zh-HK": "AI 影片製作與剪輯"
+      },
+      "description": {
+        "en": "Agent-driven tools for planning, assembling, and editing footage into finished videos, covering the production work beyond generating individual clips.",
+        "zh-CN": "利用 AI 智能体规划制作流程、组装素材并剪辑成片的工具，涵盖单个视频片段生成之外的制作环节。",
+        "zh-HK": "利用 AI 智能體規劃製作流程、組合素材並剪輯成片的工具，涵蓋單段影片生成以外的製作環節。"
+      },
+      "entries": [
+        {
+          "name": {
+            "en": "OpenMontage",
+            "zh-CN": "OpenMontage",
+            "zh-HK": "OpenMontage"
+          },
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": {
+            "en": "Agentic video production system for researching, scripting, generating assets, sourcing footage, editing, and composing finished videos.",
+            "zh-CN": "基于 AI 智能体的视频制作系统，可完成资料研究、脚本创作、素材生成与搜集、剪辑及成片合成。",
+            "zh-HK": "基於 AI 智能體的影片製作系統，可完成資料研究、劇本編寫、素材生成與蒐集、剪輯及成片合成。"
+          }
+        },
+        {
+          "name": {
+            "en": "video-use",
+            "zh-CN": "video-use",
+            "zh-HK": "video-use"
+          },
+          "url": "https://github.com/browser-use/video-use",
+          "description": {
+            "en": "Video-editing skill for coding agents, using transcripts and visual previews to cut footage, add subtitles, adjust color, and check rendered output.",
+            "zh-CN": "面向编程智能体的视频剪辑 Skill，利用转录文本与画面预览进行素材裁剪、字幕制作、调色及渲染检查。",
+            "zh-HK": "面向編程智能體的影片剪輯 Skill，利用轉錄文字與畫面預覽進行素材裁剪、字幕製作、調色及渲染檢查。"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "AI Video Generation & Direction",
+        "zh-CN": "AI 视频生成与导演",
+        "zh-HK": "AI 影片生成與導演"
+      },
+      "description": {
+        "en": "Projects that turn ideas, scripts, and stories into generated videos through coordinated writing, storyboarding, visual consistency, and rendering workflows.",
+        "zh-CN": "将创意、剧本或故事转化为生成式视频的项目，通过脚本编写、分镜设计、视觉一致性控制与渲染流程完成制作。",
+        "zh-HK": "將創意、劇本或故事轉化為生成式影片的專案，透過劇本編寫、分鏡設計、視覺一致性控制與渲染流程完成製作。"
+      },
+      "entries": [
+        {
+          "name": {
+            "en": "ViMax",
+            "zh-CN": "ViMax",
+            "zh-HK": "ViMax"
+          },
+          "url": "https://github.com/HKUDS/ViMax",
+          "description": {
+            "en": "Agentic video creation framework that turns ideas, scripts, or novels into videos through story planning, storyboards, shot generation, and final assembly.",
+            "zh-CN": "智能体驱动的视频创作框架，支持将创意、剧本或小说通过剧情规划、分镜设计、镜头生成和成片合成转化为视频。",
+            "zh-HK": "智能體驅動的影片創作框架，支援將創意、劇本或小說透過劇情規劃、分鏡設計、鏡頭生成及成片合成轉化為影片。"
+          }
+        },
+        {
+          "name": {
+            "en": "Pixelle-Video",
+            "zh-CN": "Pixelle-Video",
+            "zh-HK": "Pixelle-Video"
+          },
+          "url": "https://github.com/ATH-MaaS/Pixelle-Video",
+          "description": {
+            "en": "Automated AI short-video engine that creates scripts, generated imagery or clips, voiceovers, background music, and assembled videos from a topic.",
+            "zh-CN": "AI 自动短视频引擎，可根据主题生成文案、图像或视频片段、配音和背景音乐，并自动合成成片。",
+            "zh-HK": "AI 自動短影片引擎，可根據主題生成文案、圖像或影片片段、配音及背景音樂，並自動合成影片。"
+          }
+        },
+        {
+          "name": {
+            "en": "BigBanana-AI-Director",
+            "zh-CN": "BigBanana-AI-Director",
+            "zh-HK": "BigBanana-AI-Director"
+          },
+          "url": "https://github.com/shuyu-labs/BigBanana-AI-Director",
+          "description": {
+            "en": "AI directing platform for short dramas and animated comics, with structured scripts, consistent character assets, keyframe-controlled shots, and video assembly.",
+            "zh-CN": "面向 AI 短剧与漫剧的导演平台，提供结构化剧本、角色一致性素材、关键帧镜头控制及视频合成流程。",
+            "zh-HK": "面向 AI 短劇與漫劇的導演平台，提供結構化劇本、角色一致性素材、關鍵影格鏡頭控制及影片合成流程。"
+          }
+        }
+      ]
+    }
+  ]
+}
