@@ -12,7 +12,7 @@ Agent-driven tools for planning, assembling, and editing footage into finished v
 
 - [OpenMontage](https://github.com/calesthio/OpenMontage) - Agentic video production system for researching, scripting, generating assets, sourcing footage, editing, and composing finished videos.
 - [video-use](https://github.com/browser-use/video-use) - Video-editing skill for coding agents, using transcripts and visual previews to cut footage, add subtitles, adjust color, and check rendered output.
-
+- [Ideoy](https://ideoy.ai) - Remake this week's memes with one selfie (AI image-to-video, freemium, adults only, AI-labeled).
 ## AI Video Generation & Direction
 
 Projects that turn ideas, scripts, and stories into generated videos through coordinated writing, storyboarding, visual consistency, and rendering workflows.
